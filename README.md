@@ -11,7 +11,6 @@ cd /path/to/working/directory
 git clone https://github.com/decksterr/jazgul.git
 cd ./jazgul
 sudo composer self-update && composer install
-php bin/console server:run
 ```
 
 When asked for parameters configuration, just set database_name to 'sf_jazgul' for now.
