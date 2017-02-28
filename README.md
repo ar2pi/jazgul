@@ -10,7 +10,7 @@ A simple web app project to upload, organize and share songs
 cd /path/to/working/directory
 git clone https://github.com/decksterr/jazgul.git
 cd ./jazgul
-composer self-update && composer install
+sudo composer self-update && composer install
 php bin/console server:run
 ```
 
