@@ -108,3 +108,4 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+.idea
